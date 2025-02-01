@@ -1,0 +1,10 @@
+INSTRUCTION = """Extract the following fields from the given HTML content and present them in a structured format. If the data like the Company Name or the Contact Number is inside a link tag or any other tag then extract the data from there:
+- Company Name
+- Contact Number — extract both the displayed number and the number in the href attribute.
+Match the data with the correct fields, and note any missing or incorrect information. Format the extracted data clearly."""
+
+
+
+INSTRUCTION = """Extract the company name and their contact numbers"""
+
+
