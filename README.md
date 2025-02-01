@@ -30,7 +30,7 @@ Run each cell separately. However, keep in mind that when executing the cell con
 ```bash
 !ollama run modelName
 ```
-You have to **interrupt the execution** of this cell when the `::` kind of loading pops up and then keep on executing the other cells without any worries.  
+You have to **interrupt the execution** of this cell when the `⠙ ⠹ ⠸ ⠼ ⠴ ⠦ ⠧` kind of loading pops up and then keep on executing the other cells without any worries.  
 
 Also, set:  
 ```python
